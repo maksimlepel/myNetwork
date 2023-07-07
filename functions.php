@@ -1,8 +1,8 @@
 <?php // Пример 01: functions.php
 $host = 'localhost'; // Измените при необходимости
 $data = 'mynetwork'; // Измените при необходимости
-$user = 'mynetwork'; // Измените при необходимости
-$pass = 'password'; // Измените при необходимости
+$user = 'root'; // Измените при необходимости
+$pass = 'mysql'; // Измените при необходимости
 $chrs = 'utf8mb4';
 $attr = "mysql:host=$host;dbname=$data;charset=$chrs";
 $opts =
